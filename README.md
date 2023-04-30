@@ -12,8 +12,7 @@ and accordingly will provide suggestions . Our project has several things to foc
 key features of our project are:
 
 ● Measure Body temperature of user
-● Measure SpO2, also known as oxygen saturation of body
-(Oxygen saturation (SpO2) is a measurement of how much oxygen your blood is
+● Measure SpO2, also known as oxygen saturation of body(Oxygen saturation (SpO2) is a measurement of how much oxygen your blood is
 carrying as a percentage of the maximum it could carry)
 ● Measure Heart rate of user.
 ● Measure Blood Pressure of the user.
